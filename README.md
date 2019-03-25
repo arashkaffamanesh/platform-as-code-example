@@ -14,3 +14,6 @@ Terraform DSL
 
 `terraform apply`
 
+# Blog Post
+https://medium.com/@fabiojose/platform-as-code-with-openshift-terraform-1da6af7348ce
+
